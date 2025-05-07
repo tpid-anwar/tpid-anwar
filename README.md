@@ -4,6 +4,8 @@ I am **Choirul Anwar / Backend Developer**.
 
 - 🔭 I’m currently working on Technopartner Indonesia
 
+## Technology
+
 ## Github Stats
 
 [![TPID Anwar github stats](https://github-readme-stats.vercel.app/api?username=tpid-anwar&show_icons=true&theme=dark)](https://github.com/tpid-anwar)
