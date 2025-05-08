@@ -12,3 +12,4 @@ I am **Choirul Anwar / Backend Developer**.
 ![GCS](https://img.shields.io/badge/Google-Storage-informational?style=flat&logo=googlecloudstorage&logoColor=white&color=6aa6f8)
 ![Firebase](https://img.shields.io/badge/Google-Firebase-informational?style=flat&logo=firebase&logoColor=white&color=6aa6f8)
 ![OpenAI](https://img.shields.io/badge/AI-OpenAI-informational?style=flat&logo=openai&logoColor=white&color=6aa6f8)
+![Youtube](https://img.shields.io/badge/Google-Youtube-informational?style=flat&logo=youtube&logoColor=white&color=6aa6f8)
