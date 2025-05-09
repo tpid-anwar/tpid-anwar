@@ -13,3 +13,4 @@ I am **Choirul Anwar / Backend Developer**.
 ![Firebase](https://img.shields.io/badge/Google-Firebase-informational?style=flat&logo=firebase&logoColor=white&color=6aa6f8)
 ![OpenAI](https://img.shields.io/badge/AI-OpenAI-informational?style=flat&logo=openai&logoColor=white&color=6aa6f8)
 ![Youtube](https://img.shields.io/badge/Google-Youtube-informational?style=flat&logo=youtube&logoColor=white&color=6aa6f8)
+![Whatshapp](https://img.shields.io/badge/Meta-Whatshapp-informational?style=flat&logo=whatshapp&logoColor=white&color=6aa6f8)
