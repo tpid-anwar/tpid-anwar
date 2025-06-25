@@ -1,3 +1,3 @@
 ## Hi there 👋
 
-I am **Choirul Anwar / Backend Developer**.
+I am **Choirul Anwar / Backend Developer**
